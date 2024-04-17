@@ -1,2 +1,4 @@
-# GRIP_INTERNSHIP_TASK
-This repository is for The Sparks Foundation GRIP task
+# GRIP_INTERNSHIP_TASK 1
+PREDICTION USING SUPERVISED ML
+This is a simple linear regression-based model to predict the percentage score of a student based on the number of study hours.
+
